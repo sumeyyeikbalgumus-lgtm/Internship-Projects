@@ -1,0 +1,37 @@
+# 💼 What Did I Build During My Internship?
+
+This repository showcases practical software applications and utility scripts developed during my **mandatory software engineering internship**. It highlights real-world business logic implementation using **C# Windows Forms** and automated network diagnostics with **Python**.
+
+---
+
+## 📂 Included Projects & Tools
+
+### 1. 💵 Employee Payroll & Overtime Calculation System (`C#`)
+A desktop application built to automate employee wage calculation and overtime payouts.
+
+* **Core Logic:** Calculates standard earnings for a 40-hour workweek. Any additional hours automatically trigger a **1.5x overtime rate** logic.
+* **Key Features:** Formatted currency output (`N2`), interactive `Label` dynamic text updates, and user-friendly status popups via `MessageBox`.
+* **Tech Stack:** C#, .NET Framework, Windows Forms.
+
+### 2. 🌐 Automated Network Ping Monitor (`Python`)
+A command-line tool designed for quick network connectivity testing and IP reachability checks.
+
+* **Core Logic:** Executes system ICMP `ping` requests against specified IP addresses using Python's native system calls.
+* **Key Features:** Automated loop iteration over an IP array with immediate terminal output on host status (active vs. unreachable).
+* **Tech Stack:** Python 3, `os` library.
+
+---
+
+## 🎯 What Did I Gain From These Projects?
+* **Business Logic Implementation:** Applying workplace rules (overtime calculation rules) into clean code.
+* **Multi-Language Adaptability:** Switching smoothly between C# desktop development and Python script automation.
+* **Basic Network Operations:** Understanding system-level commands and IP connectivity checks in Python.
+
+---
+
+## 🛠️ Tech Stack & Tools
+* **Languages:** C#, Python
+* **Environment:** Visual Studio, Visual Studio Code
+
+---
+
